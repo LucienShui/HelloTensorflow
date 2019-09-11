@@ -1,2 +1,5 @@
 # HelloTensorflow
-Tensorflow learning history
+
+纸上得来终觉浅，绝知此事要躬行
+
+暂时没有达到用英文记录学习过程的境界，所以这个 Repo 里的内容会主要由中文构成
